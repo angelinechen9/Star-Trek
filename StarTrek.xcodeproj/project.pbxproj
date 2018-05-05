@@ -1,0 +1,578 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F3366341D4BDB50006CD839 /* ViewController10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3366331D4BDB50006CD839 /* ViewController10.swift */; };
+		3F8C0F581D4BBADA000B4A7D /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C0F571D4BBADA000B4A7D /* ViewController4.swift */; };
+		3F8C0F5A1D4BBAFD000B4A7D /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C0F591D4BBAFD000B4A7D /* ViewController7.swift */; };
+		3F8C0F5C1D4BBC34000B4A7D /* TableViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C0F5B1D4BBC34000B4A7D /* TableViewController7.swift */; };
+		3F8C0F5E1D4BBC3F000B4A7D /* TableViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C0F5D1D4BBC3F000B4A7D /* TableViewController8.swift */; };
+		3F94A6751D4917390062415D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94A6741D4917390062415D /* AppDelegate.swift */; };
+		3F94A6771D4917390062415D /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94A6761D4917390062415D /* ViewController3.swift */; };
+		3F94A67A1D4917390062415D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F94A6781D4917390062415D /* Main.storyboard */; };
+		3F94A67C1D4917390062415D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F94A67B1D4917390062415D /* Assets.xcassets */; };
+		3F94A67F1D4917390062415D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F94A67D1D4917390062415D /* LaunchScreen.storyboard */; };
+		3F94A68A1D4917390062415D /* StarTrekTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94A6891D4917390062415D /* StarTrekTests.swift */; };
+		3F94A6951D4917390062415D /* StarTrekUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94A6941D4917390062415D /* StarTrekUITests.swift */; };
+		3F94A6A71D491A100062415D /* TableViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94A6A61D491A100062415D /* TableViewController1.swift */; };
+		3FFCE1231D49358600E94741 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1221D49358600E94741 /* ViewController1.swift */; };
+		3FFCE1251D49359600E94741 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1241D49359600E94741 /* ViewController2.swift */; };
+		3FFCE12D1D494EF100E94741 /* TableViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE12C1D494EF100E94741 /* TableViewController3.swift */; };
+		3FFCE12F1D494F0700E94741 /* TableViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE12E1D494F0700E94741 /* TableViewController4.swift */; };
+		3FFCE1331D494F2800E94741 /* TableViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1321D494F2800E94741 /* TableViewController6.swift */; };
+		3FFCE1351D49523400E94741 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1341D49523400E94741 /* ViewController8.swift */; };
+		3FFCE13B1D49725500E94741 /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE13A1D49725500E94741 /* ViewController9.swift */; };
+		3FFDE4EE1D4A8D93003A39C6 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE4ED1D4A8D93003A39C6 /* ViewController6.swift */; };
+		3FFDE4F01D4A8DE4003A39C6 /* TableViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE4EF1D4A8DE4003A39C6 /* TableViewController2.swift */; };
+		3FFDE4F21D4A8E14003A39C6 /* TableViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE4F11D4A8E14003A39C6 /* TableViewController5.swift */; };
+		3FFDE4F41D4A8F99003A39C6 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE4F31D4A8F99003A39C6 /* ViewController5.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3F94A6861D4917390062415D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F94A6691D4917390062415D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F94A6701D4917390062415D;
+			remoteInfo = StarTrek;
+		};
+		3F94A6911D4917390062415D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F94A6691D4917390062415D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F94A6701D4917390062415D;
+			remoteInfo = StarTrek;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F3366331D4BDB50006CD839 /* ViewController10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController10.swift; sourceTree = "<group>"; };
+		3F8C0F571D4BBADA000B4A7D /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		3F8C0F591D4BBAFD000B4A7D /* ViewController7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
+		3F8C0F5B1D4BBC34000B4A7D /* TableViewController7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController7.swift; sourceTree = "<group>"; };
+		3F8C0F5D1D4BBC3F000B4A7D /* TableViewController8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController8.swift; sourceTree = "<group>"; };
+		3F94A6711D4917390062415D /* StarTrek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarTrek.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F94A6741D4917390062415D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F94A6761D4917390062415D /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		3F94A6791D4917390062415D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F94A67B1D4917390062415D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F94A67E1D4917390062415D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3F94A6801D4917390062415D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F94A6851D4917390062415D /* StarTrekTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarTrekTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F94A6891D4917390062415D /* StarTrekTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarTrekTests.swift; sourceTree = "<group>"; };
+		3F94A68B1D4917390062415D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F94A6901D4917390062415D /* StarTrekUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarTrekUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F94A6941D4917390062415D /* StarTrekUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarTrekUITests.swift; sourceTree = "<group>"; };
+		3F94A6961D4917390062415D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F94A6A61D491A100062415D /* TableViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController1.swift; sourceTree = "<group>"; };
+		3FFCE1221D49358600E94741 /* ViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		3FFCE1241D49359600E94741 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		3FFCE12C1D494EF100E94741 /* TableViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController3.swift; sourceTree = "<group>"; };
+		3FFCE12E1D494F0700E94741 /* TableViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController4.swift; sourceTree = "<group>"; };
+		3FFCE1321D494F2800E94741 /* TableViewController6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController6.swift; sourceTree = "<group>"; };
+		3FFCE1341D49523400E94741 /* ViewController8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		3FFCE13A1D49725500E94741 /* ViewController9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController9.swift; sourceTree = "<group>"; };
+		3FFDE4ED1D4A8D93003A39C6 /* ViewController6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		3FFDE4EF1D4A8DE4003A39C6 /* TableViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController2.swift; sourceTree = "<group>"; };
+		3FFDE4F11D4A8E14003A39C6 /* TableViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController5.swift; sourceTree = "<group>"; };
+		3FFDE4F31D4A8F99003A39C6 /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F94A66E1D4917390062415D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A6821D4917390062415D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A68D1D4917390062415D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F94A6681D4917390062415D = {
+			isa = PBXGroup;
+			children = (
+				3F94A6731D4917390062415D /* StarTrek */,
+				3F94A6881D4917390062415D /* StarTrekTests */,
+				3F94A6931D4917390062415D /* StarTrekUITests */,
+				3F94A6721D4917390062415D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F94A6721D4917390062415D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F94A6711D4917390062415D /* StarTrek.app */,
+				3F94A6851D4917390062415D /* StarTrekTests.xctest */,
+				3F94A6901D4917390062415D /* StarTrekUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3F94A6731D4917390062415D /* StarTrek */ = {
+			isa = PBXGroup;
+			children = (
+				3F94A6741D4917390062415D /* AppDelegate.swift */,
+				3FFCE1221D49358600E94741 /* ViewController1.swift */,
+				3FFCE1241D49359600E94741 /* ViewController2.swift */,
+				3F94A6761D4917390062415D /* ViewController3.swift */,
+				3F8C0F571D4BBADA000B4A7D /* ViewController4.swift */,
+				3FFDE4F31D4A8F99003A39C6 /* ViewController5.swift */,
+				3FFDE4ED1D4A8D93003A39C6 /* ViewController6.swift */,
+				3F8C0F591D4BBAFD000B4A7D /* ViewController7.swift */,
+				3FFCE1341D49523400E94741 /* ViewController8.swift */,
+				3FFCE13A1D49725500E94741 /* ViewController9.swift */,
+				3F3366331D4BDB50006CD839 /* ViewController10.swift */,
+				3F94A6A61D491A100062415D /* TableViewController1.swift */,
+				3FFDE4EF1D4A8DE4003A39C6 /* TableViewController2.swift */,
+				3FFCE12C1D494EF100E94741 /* TableViewController3.swift */,
+				3FFCE12E1D494F0700E94741 /* TableViewController4.swift */,
+				3FFDE4F11D4A8E14003A39C6 /* TableViewController5.swift */,
+				3FFCE1321D494F2800E94741 /* TableViewController6.swift */,
+				3F8C0F5B1D4BBC34000B4A7D /* TableViewController7.swift */,
+				3F8C0F5D1D4BBC3F000B4A7D /* TableViewController8.swift */,
+				3F94A6781D4917390062415D /* Main.storyboard */,
+				3F94A67B1D4917390062415D /* Assets.xcassets */,
+				3F94A67D1D4917390062415D /* LaunchScreen.storyboard */,
+				3F94A6801D4917390062415D /* Info.plist */,
+			);
+			path = StarTrek;
+			sourceTree = "<group>";
+		};
+		3F94A6881D4917390062415D /* StarTrekTests */ = {
+			isa = PBXGroup;
+			children = (
+				3F94A6891D4917390062415D /* StarTrekTests.swift */,
+				3F94A68B1D4917390062415D /* Info.plist */,
+			);
+			path = StarTrekTests;
+			sourceTree = "<group>";
+		};
+		3F94A6931D4917390062415D /* StarTrekUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3F94A6941D4917390062415D /* StarTrekUITests.swift */,
+				3F94A6961D4917390062415D /* Info.plist */,
+			);
+			path = StarTrekUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F94A6701D4917390062415D /* StarTrek */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F94A6991D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrek" */;
+			buildPhases = (
+				3F94A66D1D4917390062415D /* Sources */,
+				3F94A66E1D4917390062415D /* Frameworks */,
+				3F94A66F1D4917390062415D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StarTrek;
+			productName = StarTrek;
+			productReference = 3F94A6711D4917390062415D /* StarTrek.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F94A6841D4917390062415D /* StarTrekTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F94A69C1D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrekTests" */;
+			buildPhases = (
+				3F94A6811D4917390062415D /* Sources */,
+				3F94A6821D4917390062415D /* Frameworks */,
+				3F94A6831D4917390062415D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F94A6871D4917390062415D /* PBXTargetDependency */,
+			);
+			name = StarTrekTests;
+			productName = StarTrekTests;
+			productReference = 3F94A6851D4917390062415D /* StarTrekTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F94A68F1D4917390062415D /* StarTrekUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F94A69F1D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrekUITests" */;
+			buildPhases = (
+				3F94A68C1D4917390062415D /* Sources */,
+				3F94A68D1D4917390062415D /* Frameworks */,
+				3F94A68E1D4917390062415D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F94A6921D4917390062415D /* PBXTargetDependency */,
+			);
+			name = StarTrekUITests;
+			productName = StarTrekUITests;
+			productReference = 3F94A6901D4917390062415D /* StarTrekUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F94A6691D4917390062415D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Student;
+				TargetAttributes = {
+					3F94A6701D4917390062415D = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					3F94A6841D4917390062415D = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 3F94A6701D4917390062415D;
+					};
+					3F94A68F1D4917390062415D = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 3F94A6701D4917390062415D;
+					};
+				};
+			};
+			buildConfigurationList = 3F94A66C1D4917390062415D /* Build configuration list for PBXProject "StarTrek" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F94A6681D4917390062415D;
+			productRefGroup = 3F94A6721D4917390062415D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F94A6701D4917390062415D /* StarTrek */,
+				3F94A6841D4917390062415D /* StarTrekTests */,
+				3F94A68F1D4917390062415D /* StarTrekUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F94A66F1D4917390062415D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F94A67F1D4917390062415D /* LaunchScreen.storyboard in Resources */,
+				3F94A67C1D4917390062415D /* Assets.xcassets in Resources */,
+				3F94A67A1D4917390062415D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A6831D4917390062415D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A68E1D4917390062415D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F94A66D1D4917390062415D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FFCE13B1D49725500E94741 /* ViewController9.swift in Sources */,
+				3FFDE4F41D4A8F99003A39C6 /* ViewController5.swift in Sources */,
+				3FFCE1251D49359600E94741 /* ViewController2.swift in Sources */,
+				3FFCE1231D49358600E94741 /* ViewController1.swift in Sources */,
+				3F8C0F5E1D4BBC3F000B4A7D /* TableViewController8.swift in Sources */,
+				3F8C0F581D4BBADA000B4A7D /* ViewController4.swift in Sources */,
+				3F94A6771D4917390062415D /* ViewController3.swift in Sources */,
+				3F8C0F5A1D4BBAFD000B4A7D /* ViewController7.swift in Sources */,
+				3FFCE12D1D494EF100E94741 /* TableViewController3.swift in Sources */,
+				3FFDE4EE1D4A8D93003A39C6 /* ViewController6.swift in Sources */,
+				3F8C0F5C1D4BBC34000B4A7D /* TableViewController7.swift in Sources */,
+				3F94A6751D4917390062415D /* AppDelegate.swift in Sources */,
+				3FFCE1331D494F2800E94741 /* TableViewController6.swift in Sources */,
+				3F94A6A71D491A100062415D /* TableViewController1.swift in Sources */,
+				3F3366341D4BDB50006CD839 /* ViewController10.swift in Sources */,
+				3FFDE4F01D4A8DE4003A39C6 /* TableViewController2.swift in Sources */,
+				3FFDE4F21D4A8E14003A39C6 /* TableViewController5.swift in Sources */,
+				3FFCE1351D49523400E94741 /* ViewController8.swift in Sources */,
+				3FFCE12F1D494F0700E94741 /* TableViewController4.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A6811D4917390062415D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F94A68A1D4917390062415D /* StarTrekTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F94A68C1D4917390062415D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F94A6951D4917390062415D /* StarTrekUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F94A6871D4917390062415D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F94A6701D4917390062415D /* StarTrek */;
+			targetProxy = 3F94A6861D4917390062415D /* PBXContainerItemProxy */;
+		};
+		3F94A6921D4917390062415D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F94A6701D4917390062415D /* StarTrek */;
+			targetProxy = 3F94A6911D4917390062415D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3F94A6781D4917390062415D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F94A6791D4917390062415D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3F94A67D1D4917390062415D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F94A67E1D4917390062415D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3F94A6971D4917390062415D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F94A6981D4917390062415D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F94A69A1D4917390062415D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = StarTrek/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrek;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3F94A69B1D4917390062415D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = StarTrek/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrek;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3F94A69D1D4917390062415D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = StarTrekTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrekTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StarTrek.app/StarTrek";
+			};
+			name = Debug;
+		};
+		3F94A69E1D4917390062415D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = StarTrekTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrekTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StarTrek.app/StarTrek";
+			};
+			name = Release;
+		};
+		3F94A6A01D4917390062415D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = StarTrekUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrekUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = StarTrek;
+			};
+			name = Debug;
+		};
+		3F94A6A11D4917390062415D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = StarTrekUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = DMA.StarTrekUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = StarTrek;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F94A66C1D4917390062415D /* Build configuration list for PBXProject "StarTrek" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F94A6971D4917390062415D /* Debug */,
+				3F94A6981D4917390062415D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F94A6991D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrek" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F94A69A1D4917390062415D /* Debug */,
+				3F94A69B1D4917390062415D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F94A69C1D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrekTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F94A69D1D4917390062415D /* Debug */,
+				3F94A69E1D4917390062415D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F94A69F1D4917390062415D /* Build configuration list for PBXNativeTarget "StarTrekUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F94A6A01D4917390062415D /* Debug */,
+				3F94A6A11D4917390062415D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F94A6691D4917390062415D /* Project object */;
+}
